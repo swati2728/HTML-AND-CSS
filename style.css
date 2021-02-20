@@ -1,0 +1,32 @@
+/* h2{
+    color: red;
+} */
+
+/* for id */
+/* #myfirst_id{
+    color: red;
+} */
+
+/* for class */
+/* .myfirst_id{
+    color:yellow;
+} */
+
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.backImg{
+    width: 100%;
+    height: 100vh;
+    background-color: yellow;
+    background-image: url('https://th.bing.com/th/id/R9d296ec174c1361b6d729629568a9790?rik=qxPy0tyXb2Dm8g&riu=http%3a%2f%2fwww.pixelstalk.net%2fwp-content%2fuploads%2f2016%2f05%2fSky-Wallpapers-Images-Desktop.jpg&ehk=%2b0swoU7dncb7RrSapRGEhYJZZkLVdJF%2fYVFYHi1FxBI%3d&risl=&pid=ImgRaw');
+    background-repeat: no-repeat ; 
+    /* background-repeat: repeat-x;   horizontal
+    background-repeat: repeat-y;  vertical */
+}
+.image{
+    width:30px;
+}
